@@ -14,9 +14,9 @@
 
 ### Wet bowl
 
-- 4 eggs ----------------------------------------- 294 calories
-- 4 cups buttermilk ------------------------------ 640 calories
-- 2 cups unsweetened apple sauce or greek yogurt - 200 calories
+- 4 eggs ------------------------------------------- 294 calories
+- 4 cups buttermilk -------------------------------- 640 calories
+- 2 cups unsweetened apple sauce or greek yogurt --- 200 calories
 
 ### Cooking
 
