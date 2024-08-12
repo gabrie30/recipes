@@ -4,6 +4,6 @@
 
 - [Banana Bread](https://github.com/gabrie30/recipes/blob/main/all/banana-bread.md)
 - [Bran Muffins](https://github.com/gabrie30/recipes/blob/main/all/bran-muffins.md)
-- [Pizza]((https://github.com/gabrie30/recipes/blob/main/all/pizza.md))
+- [Pizza](https://github.com/gabrie30/recipes/blob/main/all/pizza.md)
 - [Soy Sauce Eggs](https://github.com/gabrie30/recipes/blob/main/all/soy-sauce-eggs.md)
 
