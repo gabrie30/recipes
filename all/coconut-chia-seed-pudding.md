@@ -1,4 +1,4 @@
-# Chia Seed Pudding
+# Coconut Chia Seed Pudding
 
 > [Source](https://www.wellplated.com/coconut-chia-pudding/)
 
