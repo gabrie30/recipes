@@ -11,6 +11,7 @@
 
 ## To try
 
+- [Easy Chicken Curry](https://thefoodcharlatan.com/easy-chicken-curry-recipe/)
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=zGkvjK0KrdY)
 - [Mopu Tofu](https://www.tiktok.com/@dougdoesdelicious/video/7404239050258844971?_r=1&_t=8ozVszHag94)
@@ -21,12 +22,16 @@
 
 ## Curry tip
 
-Generally you are going to want Garam Masalla, it's an Indian spice mix that is used for everything. That, turmeric, coconut milk, onions, and tomatoes.
+> See Easy Checkin Curry
 
-Cook down some onions, toss in a can of tomatoes (Rotel is good if you like spice, but any can of diced tomatoes will do). Let them cook down with the onions and add some garlic in the last minute or so.
+Cook in instapot on the sear setting
 
-When the garlic starts to brown, add your coconut milk and whatever vegetables you want, about a tablespoon of garam Masala and a pinch of turmeric and let it boil. Continue to taste and add spices until the veggies are cooked. I reccomend browning any meat first but in a pinch you can just let it boil, too.
+Toast all spices in pan first on medium pan first then pull them
+
+Add half toasted spices to chicken and cook and brown chicken in pan. Put off to side when done cooking
+
+Food process onion garlic and ginger then cook it in same pan.
+
+When the garlic starts to brown, add in equal parts coconut milk and chicken stock or bulion then whatever vegetables you want, about a tablespoon of garam Masala, Yellow Curry Powder and a pinch of turmeric and table spoon oyster sauce let it boil.
 
 I make it with potatoes and carrots, but the beauty of curry is that it is super adaptable, you can toss almost anything in.
-
-Edit: oh, oyster sauce from the Asian food aisle. You want about a tablespoon of that for salt and umami flavor. It's my secret ingredient for every thing. Western cooking has been sleeping on it.
