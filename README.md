@@ -24,6 +24,26 @@
 
 > See Easy Checkin Curry
 
+NOTE: this recipe is better when you want to add potato and carrot. It has something lacking to it. Although its good. Also its not very thick, so let it simmer for a long time to cook the potato and thicken up. If you want a receipe with no vegetables. The sliced can of tomatoes receipe would be better suited.
+
+- 4 chicken thighs
+- 2 tbs garam masala
+- 3 tbs yellow curry powder
+- 1 tbs tumeric
+- 2 tbs oyster sauce
+- 1 tbs sugar
+- 1 large onion
+- 2 large potato
+- 1 large carrot
+- 1/2 lemon
+- 6 chopped garlic cloves
+- 4tbs around 3 inches chopped ginger
+- 1 can coconut milk
+- chicken broth or bullion
+
+> Food process the ginger garlic and onion
+
+
 Cook in instapot on the sear setting
 
 Toast all spices in pan first on medium pan first then pull them
@@ -32,6 +52,6 @@ Add half toasted spices to chicken and cook and brown chicken in pan. Put off to
 
 Food process onion garlic and ginger then cook it in same pan.
 
-When the garlic starts to brown, add in equal parts coconut milk and chicken stock or bulion then whatever vegetables you want, about a tablespoon of garam Masala, Yellow Curry Powder and a pinch of turmeric and table spoon oyster sauce let it boil.
+When the garlic starts to brown, add in equal parts coconut milk and chicken stock or bulion then whatever vegetables you want, add in the spices, half lemon juice, and oyster sauce let it boil.
 
 I make it with potatoes and carrots, but the beauty of curry is that it is super adaptable, you can toss almost anything in.
