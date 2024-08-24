@@ -11,6 +11,7 @@
 
 ## To try
 
+- [Teriaki Chicken](https://www.tiktok.com/@markedrestaurant/video/7405554469343087877?_r=1&_t=8p93QmazzBu)
 - [Easy Chicken Curry](https://thefoodcharlatan.com/easy-chicken-curry-recipe/)
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=zGkvjK0KrdY)
