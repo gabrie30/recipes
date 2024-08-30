@@ -8,6 +8,7 @@
 - [Pizza](https://github.com/gabrie30/recipes/blob/main/all/pizza.md)
 - [Soy Sauce Eggs](https://github.com/gabrie30/recipes/blob/main/all/soy-sauce-eggs.md)
 - [Toum](https://github.com/gabrie30/recipes/blob/main/all/toum.md)
+- [Hummus](https://github.com/gabrie30/recipes/blob/main/all/hummus.md)
 
 ## To try
 
