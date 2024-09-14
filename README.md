@@ -37,3 +37,7 @@
 - [Pork Belly](https://www.tiktok.com/@iankewks/video/7248259701413104901)
 - [Chicken Nuggets](https://x.com/TheFigen_/status/1820131829497893191)
 - [Butternut squash soup](https://www.twopeasandtheirpod.com/easy-butternut-squash-soup/)
+
+## Discover
+
+- [School of Wok](https://www.youtube.com/@SchoolofWok)
