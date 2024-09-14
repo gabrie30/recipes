@@ -7,6 +7,7 @@
 - [Pizza](https://github.com/gabrie30/recipes/blob/main/all/pizza.md)
 - [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/all/yellow-curry.md)
 - [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/all/pad-kra-pao.md)
+- [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/all/tomato-and-tofu.md)
 
 ### Baked Goods
 
