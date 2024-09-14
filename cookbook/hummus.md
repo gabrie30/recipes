@@ -1,22 +1,25 @@
 # Hummus Recipe
 
+## Tips
+
+- This does not keep for long, about a week in the fridge. So if you were to double this you could freeze half.
+- Tahini brands I prefer are: Cedar’s, Seed + Mill, and Soom
+
 ## Ingredients
-- 1.5 cups cooked chickpeas, drained and rinsed
-- 1/3 cup smooth tahini
-- 2 tablespoons extra-virgin olive oil
-- 2 tablespoons fresh lemon juice, plus more to taste
-- 1 garlic clove
-- 1/2 teaspoon sea salt
-- 5 tablespoons water, or as needed to blend
+
+- 3 cups cooked chickpeas (2 cans)
+- 2/3 cup smooth tahini
+- 4 tablespoons extra-virgin olive oil
+- 4 tablespoons fresh lemon juice, plus more to taste
+- 5 garlic cloves, plus more to taste
+- 3 teaspoon sea salt
+- water, or as needed to blend
 - Paprika, red pepper flakes, and/or fresh parsley, for garnish
 
 ## Instructions
-1. If you’re using canned chickpeas, boil them in water with a little baking soda for a few minutes to help them soften.
-1. In a food processor, place the chickpeas blend until very smooth
-1. Add in tahini, olive oil, lemon juice, garlic, and salt.
-2. Use the blender baton to blend until very smooth, adding ice water as needed to blend, and/or to reach your desired consistency.
-3. Transfer to a serving plate and garnish with paprika, red pepper flakes, and/or fresh parsley.
-4. Serve with warm pita and veggies, as desired.
 
-## Notes
-- Tahini brands I prefer are: Cedar’s, Seed + Mill, and Soom
+1. If you’re using canned chickpeas, boil them in water with 2 tbsp baking soda for a few minutes to help them soften.
+1. In a food processor, place the chickpeas blend until very smooth, process them hot
+1. Add in tahini, olive oil, lemon juice, garlic, and salt.
+1. Use the blender baton to blend until very smooth, adding ice water as needed to reach your desired consistency.
+1. Get into fridge to get temp down to help with its perservation or serve fresh
