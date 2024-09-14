@@ -18,6 +18,7 @@
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=zGkvjK0KrdY)
 - [Mopu Tofu](https://www.tiktok.com/@dougdoesdelicious/video/7404239050258844971?_r=1&_t=8ozVszHag94)
+- [Alternative Mopu Tofu](https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html)
 - [Tiwaneese Braised Pork](https://www.tiktok.com/@dougdoesdelicious/video/7396011140192455978?_r=1)
 - [Pork Belly](https://www.tiktok.com/@iankewks/video/7248259701413104901)
 - [Chicken Nuggets](https://x.com/TheFigen_/status/1820131829497893191)
