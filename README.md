@@ -27,7 +27,7 @@
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
 
 ## To Try
-- [Ginger Chicken](https://www.youtube.com/watch?v=vmN4Nb0TrDc)
+- [Ginger Chicken](https://www.youtube.com/watch?v=BXEERdykNn0)
 - [Teriaki Chicken](https://www.tiktok.com/@markedrestaurant/video/7405554469343087877?_r=1&_t=8p93QmazzBu)
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=zGkvjK0KrdY)
