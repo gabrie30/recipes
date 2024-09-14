@@ -4,27 +4,27 @@
 
 ### Dinner Ideas
 
-- [Pizza](https://github.com/gabrie30/recipes/blob/main/all/pizza.md)
-- [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/all/yellow-curry.md)
-- [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/all/pad-kra-pao.md)
-- [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/all/tomato-and-tofu.md)
+- [Pizza](https://github.com/gabrie30/recipes/blob/main/cookbook/pizza.md)
+- [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/yellow-curry.md)
+- [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/cookbook/pad-kra-pao.md)
+- [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
 
 ### Baked Goods
 
-- [Banana Bread](https://github.com/gabrie30/recipes/blob/main/all/banana-bread.md)
-- [Bran Muffins](https://github.com/gabrie30/recipes/blob/main/all/bran-muffins.md)
+- [Banana Bread](https://github.com/gabrie30/recipes/blob/main/cookbook/banana-bread.md)
+- [Bran Muffins](https://github.com/gabrie30/recipes/blob/main/cookbook/bran-muffins.md)
 
 ### Snack Ideas
 
-- [Toum](https://github.com/gabrie30/recipes/blob/main/all/toum.md)
-- [Hummus](https://github.com/gabrie30/recipes/blob/main/all/hummus.md)
-- [Soy Sauce Eggs](https://github.com/gabrie30/recipes/blob/main/all/soy-sauce-eggs.md)
-- [Cucumber Salad](https://github.com/gabrie30/recipes/blob/main/all/cucumber-salad.md)
+- [Toum](https://github.com/gabrie30/recipes/blob/main/cookbook/toum.md)
+- [Hummus](https://github.com/gabrie30/recipes/blob/main/cookbook/hummus.md)
+- [Soy Sauce Eggs](https://github.com/gabrie30/recipes/blob/main/cookbook/soy-sauce-eggs.md)
+- [Cucumber Salad](https://github.com/gabrie30/recipes/blob/main/cookbook/cucumber-salad.md)
 
 ### Sweet Treat Ideas
 
-- [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/all/coconut-chia-seed-pudding.md)
-- [Masala Tea](https://github.com/gabrie30/recipes/blob/main/all/masala-tea.md)
+- [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/cookbook/coconut-chia-seed-pudding.md)
+- [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
 
 ## To Try
 - [Ginger Chicken](https://www.youtube.com/watch?v=vmN4Nb0TrDc)
