@@ -8,6 +8,7 @@
 - [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/yellow-curry.md)
 - [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/cookbook/pad-kra-pao.md)
 - [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
+- [Mapo Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapo-tofu.md)
 
 ### Baked Goods
 
@@ -28,7 +29,6 @@
 
 ## To Try
 
-- [Alternative Mopu Tofu](https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html)
 - [Ginger Chicken](https://www.youtube.com/watch?v=BXEERdykNn0)
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Teriaki Chicken](https://www.tiktok.com/@markedrestaurant/video/7405554469343087877?_r=1&_t=8p93QmazzBu)
