@@ -23,6 +23,5 @@ Strain off the grounds, then pour the tea.
 
 ## Notes
 
-- 4:1 too watery 1:1 too milky
 - Condensed milk would probably be good if I had some.
 - Some say let the milk boil back up while stiring so it does not burn and then pour from one pot to another a few times to create a foam texture on top.

@@ -33,7 +33,7 @@
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Teriaki Chicken](https://www.tiktok.com/@markedrestaurant/video/7405554469343087877?_r=1&_t=8p93QmazzBu)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=zGkvjK0KrdY)
-- [Mopu Tofu](https://www.tiktok.com/@dougdoesdelicious/video/7404239050258844971?_r=1&_t=8ozVszHag94)
+- [Tuscan Shrimp Pasta](https://www.tiktok.com/@mxriyum/video/7057212843367861551?q=shrimp%20pasta%20dinner&t=1726551584344)
 - [Tiwaneese Braised Pork](https://www.tiktok.com/@dougdoesdelicious/video/7396011140192455978?_r=1)
 - [Pork Belly](https://www.tiktok.com/@iankewks/video/7248259701413104901)
 - [Chicken Nuggets](https://x.com/TheFigen_/status/1820131829497893191)

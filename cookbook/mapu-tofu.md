@@ -2,6 +2,7 @@
 
 - [Source Recipe](https://www.angelwongskitchen.com/mapo-tofu-spicy--40635231103591033104-maacute-poacute-dograveufu.html)
 - [Source Video](https://www.youtube.com/watch?v=a-rB3f8lqEg)
+- [Quicker recipe](https://www.tiktok.com/@dougdoesdelicious/video/7404239050258844971?_r=1&_t=8ozVszHag94)
 
 ## Ingredients
 
@@ -27,3 +28,7 @@
 3. Stop to taste test and adjust the level of spiciness, salt, or sugar (if needed).
 4. Thicken the sauce with cornstarch & work quickly to stir.
 5. Gently add in the tofu cubes and finally the green onions for garnish.
+
+## Notes
+
+- Instead of the garlic black bean sauce, try the chili bean sauce (toban djan) instead
