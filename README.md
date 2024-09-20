@@ -27,6 +27,10 @@
 - [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/cookbook/coconut-chia-seed-pudding.md)
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
 
+### Sauces
+
+- [Viet Fishsauce, sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/viet-fishsauce-sauce.md)
+
 ## To Try
 
 - [Ginger Chicken](https://www.youtube.com/watch?v=BXEERdykNn0)
@@ -38,6 +42,7 @@
 - [Pork Belly](https://www.tiktok.com/@iankewks/video/7248259701413104901)
 - [Chicken Nuggets](https://x.com/TheFigen_/status/1820131829497893191)
 - [Butternut squash soup](https://www.twopeasandtheirpod.com/easy-butternut-squash-soup/)
+- [Dumpling Soup](https://www.tiktok.com/@prunchme/video/7415247850709323026?_r=1&_t=8po2MfLkgY6)
 
 ## Discover
 
