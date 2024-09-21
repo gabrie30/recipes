@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-1 inch piece of ginger
+1 inch piece of ginger or 2 tsp ground ginger
 2 inch piece of cinnamon stick or 1/2 tsp ground
 3 peppercorns
 5 cloves
 5 cardamom pods
 1 cup milk
 3.5 cups water (to account for evaporation 3:1 water/milk)
-2 tbsp sugar
+2 tbsp brown sugar
 4 bags of black tea (Assam is recommended then Darjeeling, then if push comes to shove Breakfast tea or Lipton Black)
 1 star anise or 1/4 tsp ground (optional)
 
