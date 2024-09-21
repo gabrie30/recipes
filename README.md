@@ -29,7 +29,11 @@
 
 ### Sauces
 
-- [Viet Fishsauce, sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/viet-fishsauce-sauce.md)
+- [Vietnamese Fish Sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/viet-fishsauce-sauce.md)
+
+### Marinades
+
+- [Sugar and Fish Sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/sugar-fishsauce-marinade.md)
 
 ## To Try
 

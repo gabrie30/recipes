@@ -1,5 +1,7 @@
 # Hummus Recipe
 
+[To read](https://www.seriouseats.com/israeli-style-extra-smooth-hummus-recipe)
+
 ## Tips
 
 - This does not keep for long, about a week in the fridge. So if you were to double this you could freeze half.
@@ -8,12 +10,13 @@
 ## Ingredients
 
 - 3 cups cooked chickpeas (2 cans)
-- 2/3 cup smooth tahini
-- 4 tablespoons extra-virgin olive oil
+- 1/2 cup smooth tahini
+- 3 tablespoons extra-virgin olive oil
 - 4 tablespoons fresh lemon juice, plus more to taste
 - 5 garlic cloves, plus more to taste
 - 3 teaspoon sea salt
 - water, or as needed to blend
+- 1 tsp cumin (optional)
 - Paprika, red pepper flakes, and/or fresh parsley, for garnish
 
 ## Instructions
