@@ -22,7 +22,7 @@
 
 ## Directions
 
-1. In a cup warm up 1.5 cups of water, microwave for 35 seconds, then add in yeast and sugar then stir
+1. In a cup warm up 1.5 cups of water, microwave for 35 seconds, then add in yeast, salt, and sugar then stir
 1. Combine dry ingredients, stir in liquid from cup, until dough ball forms (use food processor or mixer instead for better results)
 1. Kneed 10 min, coat with oil, cover and let rise in a warm place for 60 min
 1. Separate into two equal parts, form into balls, cover with plastic wrap, wait 10 min,
@@ -31,3 +31,7 @@
 1. Take can of tomatoes or pre bought pizza sauce and spread evenly, remove any additional water from tomatoes with paper tower, then add salt on top to taste
 1. Add toppings
 1. Preheat oven and bake at 475 degrees for 15-20 min, do not open the oven. Makes 2 - 14” pies
+
+### Notes
+
+- Adding the salt with the yeast shouldn't matter https://www.youtube.com/watch?v=ez95TmSKG04
