@@ -18,6 +18,12 @@
 
 ## Sauce
 
+#### Homemade Option
+
+- Get 3 ripe tomatoes and skin them by first scoring an x on the bottom 1 inch long then placing them in boiling water, then an icebath to cool. Cut take out all seeds and gooey bits. Then mash together with your hands, add some salt and pepper.
+
+#### Premade Option
+
 - Highest quality canned tomatoes you can find or pre bought pizza sauce
 
 ## Directions
@@ -34,4 +40,5 @@
 
 ### Notes
 
+- Try adding [Toum](https://github.com/gabrie30/recipes/blob/main/cookbook/toum.md) all over the crust before putting sauce on if you have it available.
 - Adding the salt with the yeast shouldn't matter https://www.youtube.com/watch?v=ez95TmSKG04
