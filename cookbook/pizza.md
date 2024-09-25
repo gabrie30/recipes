@@ -4,12 +4,13 @@
 
 ### Tips
 
-1. Make this double size. You can freeze the pizza dough and it will last 4 months. Making the dough is the most time consuming/messy part of this. Once you have the dough prepared making a pizza is quick and easy. Wrap dough in plastic wrap then freezer bag. When you want to use one put it in the fridge the night before, then out of the fridge about 4 hours before you want to make it. The dough should be visibly risen if yeast is active.
+1. Make this double size. You can freeze the pizza dough and it will last 4 months. Making the dough is the most time consuming/messy part of this. Once you have the dough prepared making a pizza is quick and easy. Wrap dough in plastic wrap then freezer bag. When you want to use one put it in the fridge the night before, then out of the fridge about 4 hours before you want to make it. The dough should be visibly risen if yeast is active. Watch more [here](https://www.youtube.com/watch?v=PCQ0maTaTMA)
 1. Use a food processor to mix the wet/dry ingredients, it makes quick work of this step.
 
 ## Dough Ingredients
 
-- 3.5 cups of flour
+- 3.5 cups of flour (420 grams)
+    - If making in the oven the best will be unbleached flour but any kind will be fine
 - 2 tsp salt
 - 2 tsp sugar
 - 1 packet of dry active yeast (I use pizza yeast)
