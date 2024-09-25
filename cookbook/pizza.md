@@ -18,6 +18,8 @@
 
 ## Sauce
 
+> Whatever option you choose make sure you blot the tomatoes with a paper tower to soak up as much water as you can. Otherwise your pizza will be watery.
+
 #### Homemade Option
 
 - Get 3 ripe tomatoes and skin them by first scoring an x on the bottom 1 inch long then placing them in boiling water, then an icebath to cool. Cut take out all seeds and gooey bits. Then mash together with your hands, add some salt and pepper.
