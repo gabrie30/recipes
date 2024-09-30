@@ -9,6 +9,7 @@
 - [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/cookbook/pad-kra-pao.md)
 - [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
 - [Mapo Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapo-tofu.md)
+- [Garlicky Chicken and Couscous](https://github.com/gabrie30/recipes/blob/main/cookbook/garlicky-chicken-and-couscous.md)
 
 ### Baked Goods
 
