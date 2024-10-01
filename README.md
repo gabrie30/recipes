@@ -38,7 +38,6 @@
 
 ## To Try
 
-- [One Pan Garlic Chicken Cuscus](https://www.tiktok.com/@carolinagelen/video/7416901520387542304?_t=8pucQEJ29wR&_r=1)
 - [One Pot Coconut Dal](https://www.tiktok.com/@johngs/video/7419375346690166048?_r=1&_t=8q6JtUgQnfe)
 - [Ginger Chicken](https://www.youtube.com/watch?v=BXEERdykNn0)
 - [Tuscan Shrimp Pasta](https://www.tiktok.com/@mxriyum/video/7057212843367861551?q=shrimp%20pasta%20dinner&t=1726551584344)
