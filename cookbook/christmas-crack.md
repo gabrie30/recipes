@@ -1,6 +1,7 @@
 # Christmas Crack
 
-[Source](https://iambaker.net/christmas-crack/)
+- [Source](https://iambaker.net/christmas-crack/)
+- [Similar](https://www.onceuponachef.com/recipes/chocolate-toffee-matzo-crack.html)
 
 ### Ingredients
 - 45 saltine crackers
