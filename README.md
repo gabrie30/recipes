@@ -51,6 +51,7 @@
 - [Chicken Nuggets](https://x.com/TheFigen_/status/1820131829497893191)
 - [Butternut squash soup](https://www.twopeasandtheirpod.com/easy-butternut-squash-soup/)
 - [Dumpling Soup](https://www.tiktok.com/@prunchme/video/7415247850709323026?_r=1&_t=8po2MfLkgY6)
+- [Kung Pow Chicken](https://www.tiktok.com/@derekkchen/video/7418614690059717934?_r=1&_t=8qLjrZIcJMw)
 
 ## Non Food
 

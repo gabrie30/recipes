@@ -4,13 +4,13 @@
 
 ### Dry bowl
 
-- 4 cups millers bran ----------------------- 160 calories                                         
-- 3 cups unbleached flour ------------------- 1760 calories
-- 4 tsp sea salt ---------------------------- 4 calories
-- 1 cup brown sugar (packed) ---------------- 829 calories
-- 2 tsp baking soda ------------------------- 2 calories
-- 4 tsp cinnimon ---------------------------- 4 calories
-- 1.5 cups rasins --------------------------- 700 calories
+- 4 cups millers bran                ---------------- 160 calories
+- 3 cups (360g) unbleached flour     ---------------- 1760 calories
+- 4 tsp sea salt                     ---------------- 4 calories
+- 1 cup brown sugar (packed)         ---------------- 829 calories
+- 2 tsp baking soda                  ---------------- 2 calories
+- 4 tsp cinnamon                     ---------------- 4 calories
+- 1.5 cups raisins                   ---------------- 700 calories
 
 ### Wet bowl
 
@@ -24,7 +24,7 @@ Combine ingredients, dont over stir, then bake for 20 mins at 425 degrees in gre
 
 ### Storing
 
-When cooled, bag and put in freezer. 
+When cooled, bag and put in freezer.
 
 ### Eating
 
