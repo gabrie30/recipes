@@ -27,6 +27,8 @@
 
 - [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/cookbook/coconut-chia-seed-pudding.md)
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
+- [Christmas Crack](https://github.com/gabrie30/recipes/blob/main/cookbook/christmas-crack.md)
+
 
 ### Sauces
 
@@ -50,6 +52,7 @@
 - [Butternut squash soup](https://www.twopeasandtheirpod.com/easy-butternut-squash-soup/)
 - [Dumpling Soup](https://www.tiktok.com/@prunchme/video/7415247850709323026?_r=1&_t=8po2MfLkgY6)
 - [Kimchi](https://www.tiktok.com/@hawaiispicklelady/video/7422446325926497578?_r=1&_t=8qLkB9OOori)
+- [Kung Pow Chicken](https://www.tiktok.com/@derekkchen/video/7418614690059717934?_r=1&_t=8qLjrZIcJMw)
 
 ## Non Food
 
