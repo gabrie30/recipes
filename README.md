@@ -8,7 +8,7 @@
 - [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/yellow-curry.md)
 - [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/cookbook/pad-kra-pao.md)
 - [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
-- [Mapo Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapo-tofu.md)
+- [Mapu Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapu-tofu.md)
 - [Garlicky Chicken and Couscous](https://github.com/gabrie30/recipes/blob/main/cookbook/garlicky-chicken-and-couscous.md)
 
 ### Baked Goods
