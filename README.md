@@ -10,6 +10,7 @@
 - [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
 - [Mapu Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapu-tofu.md)
 - [Garlicky Chicken and Couscous](https://github.com/gabrie30/recipes/blob/main/cookbook/garlicky-chicken-and-couscous.md)
+- [Ginger Chicken](https://github.com/gabrie30/recipes/blob/main/cookbook/ginger-chicken.md)
 
 ### Baked Goods
 
@@ -40,8 +41,6 @@
 
 ## To Try
 
-- [One Pot Coconut Dal](https://www.tiktok.com/@johngs/video/7419375346690166048?_r=1&_t=8q6JtUgQnfe)
-- [Ginger Chicken](https://www.youtube.com/watch?v=BXEERdykNn0)
 - [Tuscan Shrimp Pasta](https://www.tiktok.com/@mxriyum/video/7057212843367861551?q=shrimp%20pasta%20dinner&t=1726551584344)
 - [Chicken Satay Curry](https://www.recipetineats.com/chicken-satay-curry/)
 - [Teriaki Chicken](https://www.tiktok.com/@markedrestaurant/video/7405554469343087877?_r=1&_t=8p93QmazzBu)
@@ -53,6 +52,8 @@
 - [Dumpling Soup](https://www.tiktok.com/@prunchme/video/7415247850709323026?_r=1&_t=8po2MfLkgY6)
 - [Kimchi](https://www.tiktok.com/@hawaiispicklelady/video/7422446325926497578?_r=1&_t=8qLkB9OOori)
 - [Kung Pow Chicken](https://www.tiktok.com/@derekkchen/video/7418614690059717934?_r=1&_t=8qLjrZIcJMw)
+- [Hot and sour soup](https://www.tiktok.com/@takestwoeggs/video/7429013841595370782?_r=1&_t=8qoQJlLVQpq)
+- [Beef stew](https://www.tiktok.com/@two.plaid.aprons/video/7428993944375053599?_r=1&_t=8qnSmM8y7Xn)
 
 ## Non Food
 
