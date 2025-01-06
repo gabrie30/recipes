@@ -54,6 +54,7 @@
 - [Kung Pow Chicken](https://www.tiktok.com/@derekkchen/video/7418614690059717934?_r=1&_t=8qLjrZIcJMw)
 - [Hot and sour soup](https://www.tiktok.com/@takestwoeggs/video/7429013841595370782?_r=1&_t=8qoQJlLVQpq)
 - [Beef stew](https://www.tiktok.com/@two.plaid.aprons/video/7428993944375053599?_r=1&_t=8qnSmM8y7Xn)
+- [Chicken Nuggets](https://x.com/TheFigen_/status/1876008115944161300)
 
 ## Non Food
 
