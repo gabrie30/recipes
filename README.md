@@ -59,6 +59,7 @@
 ## Non Food
 
 - [Laundry Detergent](https://www.tiktok.com/@tiffany_m__adams/video/7407195145927494954?_r=1&_t=8psVR38ux2Z)
+- [Vanilla Extract](https://www.youtube.com/watch?v=DRZGAd7K0Qs)
 
 ## Discover
 
