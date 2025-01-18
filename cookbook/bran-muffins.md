@@ -1,5 +1,7 @@
 # bran muffin recipe (brannies)
 
+TO TRY: use mollassas instead of brown sugar
+
 > makes 24 bran muffins (2 trays)
 
 ### Dry bowl
@@ -33,3 +35,7 @@ To eat, microwave frozen for 55 seconds on high, cut in half, and add butter to 
 ### Total Calories
 
 4593 calories or about **191 calories each** without butter
+
+### Other
+
+[Ideas](https://www.thepancakeprincess.com/best-bran-muffin-bake-off/)
