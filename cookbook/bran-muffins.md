@@ -7,7 +7,7 @@ TO TRY: use mollassas instead of brown sugar
 ### Dry bowl
 
 - 4 cups millers bran                ---------------- 160 calories
-- 3 cups (360g) unbleached flour     ---------------- 1760 calories
+- 3 cups (470g) unbleached flour     ---------------- 1760 calories
 - 4 tsp sea salt                     ---------------- 4 calories
 - 1 cup brown sugar (packed)         ---------------- 829 calories
 - 2 tsp baking soda                  ---------------- 2 calories
