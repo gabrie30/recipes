@@ -2,6 +2,8 @@
 
 > https://belleofthekitchen.com/mexican-black-beans-recipe/
 
+> cuban black beans https://www.foodandwine.com/recipes/cuban-black-beans
+
 ### Ingredients
 - 1 teaspoon olive oil
 - ½ cup chopped onions
