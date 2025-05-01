@@ -9,8 +9,9 @@
 - 1 packed cup brown sugar (180g)       ---------------- 829 calories
 - 1.5 cups raisins (210g)               ---------------- 700 calories
 - 4 tsp sea salt                        ---------------- 4 calories
-- 2 tsp baking soda                     ---------------- 2 calories
 - 4 tsp cinnamon                        ---------------- 4 calories
+- 2 tsp baking soda                     ---------------- 2 calories
+
 
 ### Wet bowl
 
