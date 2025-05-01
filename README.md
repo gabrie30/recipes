@@ -2,7 +2,7 @@
 
 ## Categories
 
-### Dinner Ideas
+### Dinner Dishes
 
 - [Pizza](https://github.com/gabrie30/recipes/blob/main/cookbook/pizza.md)
 - [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/yellow-curry.md)
@@ -13,19 +13,23 @@
 - [Garlicky Chicken and Couscous](https://github.com/gabrie30/recipes/blob/main/cookbook/garlicky-chicken-and-couscous.md)
 - [Ginger Chicken](https://github.com/gabrie30/recipes/blob/main/cookbook/ginger-chicken.md)
 
+### Side Dishes
+
+- [Baked Potato Bites](https://github.com/gabrie30/recipes/blob/main/cookbook/baked-potato-bites.md)
+
 ### Baked Goods
 
 - [Banana Bread](https://github.com/gabrie30/recipes/blob/main/cookbook/banana-bread.md)
 - [Bran Muffins](https://github.com/gabrie30/recipes/blob/main/cookbook/bran-muffins.md)
 
-### Snack Ideas
+### Snacks
 
 - [Toum](https://github.com/gabrie30/recipes/blob/main/cookbook/toum.md)
 - [Hummus](https://github.com/gabrie30/recipes/blob/main/cookbook/hummus.md)
 - [Soy Sauce Eggs](https://github.com/gabrie30/recipes/blob/main/cookbook/soy-sauce-eggs.md)
 - [Cucumber Salad](https://github.com/gabrie30/recipes/blob/main/cookbook/cucumber-salad.md)
 
-### Sweet Treat Ideas
+### Sweet Treats
 
 - [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/cookbook/coconut-chia-seed-pudding.md)
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
