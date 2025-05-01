@@ -6,6 +6,7 @@
 
 - [Pizza](https://github.com/gabrie30/recipes/blob/main/cookbook/pizza.md)
 - [Yellow Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/yellow-curry.md)
+- [Red Coconut Curry](https://github.com/gabrie30/recipes/blob/main/cookbook/red-coconut-curry.md)
 - [Pad Kra Pao](https://github.com/gabrie30/recipes/blob/main/cookbook/pad-kra-pao.md)
 - [Tomato and Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/tomato-and-tofu.md)
 - [Mapu Tofu](https://github.com/gabrie30/recipes/blob/main/cookbook/mapu-tofu.md)
@@ -30,7 +31,6 @@
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
 - [Christmas Crack](https://github.com/gabrie30/recipes/blob/main/cookbook/christmas-crack.md)
 
-
 ### Sauces
 
 - [Vietnamese Fish Sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/viet-fishsauce-sauce.md)
@@ -38,6 +38,10 @@
 ### Marinades
 
 - [Sugar and Fish Sauce](https://github.com/gabrie30/recipes/blob/main/cookbook/sugar-fishsauce-marinade.md)
+
+### Other
+
+- [Quick Black Beans](https://github.com/gabrie30/recipes/blob/main/cookbook/black-beans.md)
 
 ## To Try
 
