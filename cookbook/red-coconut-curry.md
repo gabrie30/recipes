@@ -21,7 +21,7 @@
 - 1 tbsp sugar (white, brown or palm)
 - 2 tsp fish sauce, plus more to taste
 - 350g / 12 oz chicken thighs (boneless and skinless), cut into ¾″ / ⅓″ thick slices (Note 5)
-- 150g / 5 oz pumpkin or butternut squash, cut into 1.5cm / ⅗″ cubes (~1 heaped cup)
+- 150g / Potatos or 5 oz pumpkin or butternut squash, cut into 1.5cm / ⅗″ cubes (~1 heaped cup)
 - 120g / 4oz green beans, trimmed and cut into 5cm / 2″ pieces
 - 12 Thai basil leaves (Note 6)
 
