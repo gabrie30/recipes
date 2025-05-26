@@ -1,3 +1,29 @@
+# Banana Bread (Healthier)
+
+> Source: https://tastesbetterfromscratch.com/skinny-banana-bread/
+
+## Ingredients (Makes 2 Loafs)
+
+- 8 bananas, about 1⅓ cups, mashed
+- 2 large eggs
+- 2 tablespoons vanilla extract
+- 6 tablespoons light brown sugar
+- 4 tablespoons granulated sugar
+- 2 teaspoons ground cinnamon
+- 2 teaspoons baking powder
+- 2 teaspoons baking soda
+- 1 teaspoon salt
+- 3 cups all-purpose flour (white or white-whole wheat)
+- 4 tablespoons unsalted butter, melted (or substitute applesauce)
+
+## Instructions
+
+1. Grease a standard 9×5” loaf pan (line the bottom with parchment paper to prevent sticking).
+1. Mash 8 bananas (1⅓ cups) in a mixing bowl. Add 2 large eggs, 2 tablespoons vanilla extract, 6 tablespoons light brown sugar, 4 tablespoons granulated sugar, and 2 teaspoons ground cinnamon; stir well to combine.
+1. In a separate small bowl, stir together 3 cups all-purpose flour, 2 teaspoons baking powder, 2 teaspoons baking soda, and 1 teaspoon salt. Add to the banana mixture and stir to combine.
+1. Gently stir in 4 tablespoons melted unsalted butter. Bake at 350°F for 35-45 minutes or until a toothpick inserted into the center comes out clean.
+1. Allow to cool in the pan for 5-10 minutes before inverting onto a wire cooling rack.
+
 # banana-bread
 
 - [original source](https://reluctantentertainer.com/sour-cream-banana-bread/)
