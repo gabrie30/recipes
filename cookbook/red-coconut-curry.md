@@ -5,7 +5,7 @@
 ### Ingredients
 
 **Red Curry Paste – choose ONE:**
-- 5–6 tbsp Thai Red Curry Paste
+- 4–5 tbsp Thai Red Curry Paste or (50 grams Mae Ploy Red Curry Paste)
 - 1 quantity homemade Thai Red Curry Paste
 
 **Extras – only for jar curry paste (Note 2):**
@@ -21,9 +21,10 @@
 - 1 tbsp sugar (white, brown or palm)
 - 2 tsp fish sauce, plus more to taste
 - 350g / 12 oz chicken thighs (boneless and skinless), cut into ¾″ / ⅓″ thick slices (Note 5)
-- 150g / Potatos or 5 oz pumpkin or butternut squash, cut into 1.5cm / ⅗″ cubes (~1 heaped cup)
+- 700g / Potatos or 5 oz pumpkin or butternut squash, cut into 1.5cm / ⅗″ cubes (~1 heaped cup)
 - 120g / 4oz green beans, trimmed and cut into 5cm / 2″ pieces
 - 12 Thai basil leaves (Note 6)
+- Lime juice (optional)
 
 ### Instructions
 
@@ -35,7 +36,8 @@
 6. Taste and adjust seasoning with more fish sauce or sugar if needed.
 7. Add 150g pumpkin and 120g beans, stir. Cook for 3 minutes until pumpkin is just cooked through and sauce is thickened.
 8. Remove from heat. Stir through 12 Thai basil leaves.
-9. Serve over jasmine rice, garnished with fresh red chili slices and fresh coriander/cilantro leaves, if desired.
+9. Squeeze juice of 1-2 limes to taste
+10. Serve over jasmine rice, garnished with fresh red chili slices and fresh coriander/cilantro leaves, if desired.
 
 **Recipe Notes:**
 1. Curry paste – if using store bought, try to get Maesri brand if you can, it’s the best (small can, very cheap). Sold at major grocery stores (Woolies, Coles) or Asian stores. Otherwise, use your favourite. Use 5 tbsp if you are unsure about spiciness, or 6 tbsp (or the whole can!) if you are sure you can handle it! Note: curry paste in jars has a more concentrated flavour than fresh homemade paste so you need less. The video shows homemade paste.

@@ -12,6 +12,7 @@
 - 4 tsp cinnamon                        ---------------- 4 calories
 - 2 tsp baking soda                     ---------------- 2 calories
 
+=1930g w bowl
 
 ### Wet bowl
 

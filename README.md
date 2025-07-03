@@ -34,6 +34,7 @@
 - [Coconut Chia Seed Pudding](https://github.com/gabrie30/recipes/blob/main/cookbook/coconut-chia-seed-pudding.md)
 - [Masala Tea](https://github.com/gabrie30/recipes/blob/main/cookbook/masala-tea.md)
 - [Christmas Crack](https://github.com/gabrie30/recipes/blob/main/cookbook/christmas-crack.md)
+- [Danish Dream Cake](https://github.com/gabrie30/recipes/blob/main/cookbook/danish-dream-cake.md)
 
 ### Sauces
 
