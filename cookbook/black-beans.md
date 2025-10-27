@@ -4,7 +4,7 @@
 
 ## Ingridents
 
-- 1:3 ratio beans to water; 1lb beans needs 6 cups water in instapot
+- 1:3 ratio beans to water; 1lb (454g) beans needs 6 cups (1419g) water in instapot
 - Add a bit of salt and pinch of baking soda
 - Cook 40 mins high pressure and let naturally release for another 25 mins
 - Store in freezer 1 cup of beans

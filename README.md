@@ -16,6 +16,7 @@
 ### Side Dishes
 
 - [Baked Potato Bites](https://github.com/gabrie30/recipes/blob/main/cookbook/baked-potato-bites.md)
+- [Black Beans](https://github.com/gabrie30/recipes/blob/main/cookbook/black-beans.md)
 
 ### Baked Goods
 

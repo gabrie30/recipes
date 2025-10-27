@@ -4,7 +4,7 @@
 
 ## Instructions
 
-1. If you’re using canned chickpeas, boil them in water with 2 tbsp baking soda for a few minutes to help them soften.
+1. If you’re using canned chickpeas, boil them in water with 2 tsp baking soda for a few minutes to help them soften.
 1. In a food processor, place the chickpeas blend until very smooth, process them hot
 1. Add in tahini, olive oil, lemon juice, garlic, and salt.
 1. Use the blender baton to blend until very smooth, adding ice water as needed to reach your desired consistency.

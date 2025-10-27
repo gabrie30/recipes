@@ -4,6 +4,9 @@
 - [Source Video](https://www.youtube.com/watch?v=a-rB3f8lqEg)
 - [Quicker recipe](https://www.tiktok.com/@dougdoesdelicious/video/7404239050258844971?_r=1&_t=8ozVszHag94)
 
+> TIP: Have some [Black Beans](https://github.com/gabrie30/recipes/blob/main/cookbook/black-beans.md)
+ ready before starting.
+
 ## Ingredients
 
 - 1 block of fresh tofu, freeze and thaw before cooking for a spongier tofu that soaks up the sauce
