@@ -20,7 +20,7 @@
 - 4 cups buttermilk or milk kefir (946ml) ---------- 640 calories
 - 2 cups unsweetened apple sauce or greek yogurt --- 200 calories
 - 1 spoonful mollassas (optional) ------------------  60 calories
-- 3 tsp bourbon vanilla extract   ------------------  60 calories
+- 2 tsp bourbon vanilla extract   ------------------  60 calories
 
 ### Cooking
 
@@ -41,9 +41,3 @@ To eat, microwave frozen for 55 seconds on high, cut in half, and add butter to 
 ### Other
 
 [Ideas](https://www.thepancakeprincess.com/best-bran-muffin-bake-off/)
-
-Create all test and production MySql datastores using kcl, config connector, and terraform
-Create all test and production Valkey datastores using kcl, config connector, and terraform
-Create all test and production Memcache datastores using kcl, config connector, and terraform
-
-Support MySql data migration from AWS to GCP

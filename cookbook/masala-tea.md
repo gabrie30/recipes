@@ -12,6 +12,7 @@
 2 tbsp brown sugar
 4 bags of black tea (Assam is recommended then Darjeeling, then if push comes to shove Breakfast tea or Lipton Black)
 1 star anise or 1/4 tsp ground (optional)
+1 tsp lightly crushed (optional)
 
 ## Instructions
 
